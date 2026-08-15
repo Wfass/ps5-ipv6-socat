@@ -43,7 +43,7 @@
 在 Linux 主机上执行：
 
 ```bash
-sudo bash install.sh
+sudo bash [install.sh](https://github.com/Wfass/ps5-ipv6-socat/blob/main/install.sh)
 ```
 
 脚本会**自动完成**：
