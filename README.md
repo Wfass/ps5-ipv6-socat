@@ -43,7 +43,8 @@
 在 Linux 主机上执行：
 
 ```bash
-sudo bash https://github.com/Wfass/ps5-ipv6-socat/blob/main/install.sh
+curl -fLO https://raw.githubusercontent.com/Wfass/ps5-ipv6-socat/main/install.sh
+sudo bash install.sh
 ```
 
 脚本会**自动完成**：
